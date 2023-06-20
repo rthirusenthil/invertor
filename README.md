@@ -13,14 +13,9 @@ File 4: 'invertor_inplace_by_a.c' - Program performs inplace inversion for parti
 File 5: 'invertor_by_ad.c' - Program performs inversion for partitioned matrix where block A, D and their Schur complements are invertible
 File 6: 'invertor_by_prll.c' - Program performs inversion for large partitioned block matrix where diagonal blocks and their Schur complements are invertible.
 
-Partitioning Scheme of matrix for File 3, 4 and 5:
+		
+Instruction for running the sample program: testinvertor.c
 
-Input matrix X = 	A B
-			C D
-			
-============================================================================
-Detailed Instruction for running the sample program:
-============================================================================
 File1: 
 'test_invertor.c' - Sample program to test the written invertor functions.
 
