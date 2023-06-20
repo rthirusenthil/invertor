@@ -5,6 +5,14 @@ By treating the matrix in block form, we perform the inversion using different w
 The programs are in C language.
 An algorithm for parallel processing using blockwise inversion for large block partitioned matrix is developed and implemented using OpenMP API.  This parallel code is also available in this repository.
 
+Kindly Cite us:
+1. R. Thiru Senthil, Invertor - Program to compute exact inversion of large matrices, PoS ICHEP2022 (2022), 1129.
+    DOI: 10.22323/1.414.1129
+   	Inspirehep link: https://inspirehep.net/literature/2619671
+2. R. Thiru Senthil, Blockwise inversion and algorithms for inverting large partitioned matrices, e-Print: 2305.11103 [math.NA]
+	Inspirehep link: https://inspirehep.net/literature/2660850
+
+
 Summary of programs included:
 
 File 1: 'test_invertor.c' - Sample program to test the written other invertor functions.
