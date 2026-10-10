@@ -9,7 +9,7 @@
 // Author: R. Thiru Senthil.
 // The Institute of Mathematical Sciences, 
 // IV Cross St, CIT Campus, Taramani, Chennai 600113, Tamil Nadu, India.
-// Email: rtsenthil@imsc.res.in
+// Email: rthirusenthil@gmail.com
 // Presented at: ICHEP 2022
 // Kindly cite as: 
 // 1. Inspire Link: https://inspirehep.net/literature/2619671
@@ -20,6 +20,8 @@
 
 // The invertor project details with downloads are available in the webpage: https://www.imsc.res.in/~rtsenthil/invertor.html
 // and in github page: https://github.com/rthirusenthil/invertor
+
+// updating 
 
 #include<stdlib.h>
 
